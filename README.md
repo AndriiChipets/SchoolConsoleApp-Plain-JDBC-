@@ -1,21 +1,25 @@
 Application  that inserts/updates/deletes data in the database using JDBC.
 PostgreSQL DB is used.
+
 Tables:
 groups(
 	group_id int,
 	group_name string
 )
+
 students(
 	student_id int,
 	group_id int,
 	first_name string,
 	last_name string
 )
+
 courses(
 	course_id int,
 	course_name string,
 	course_description string
 )
+
 1 Created SQL files with data:
 a. created a user and database. Assign all privileges on the database to the user. (DB and the user created before application runs)
 b. created a file with tables creation
