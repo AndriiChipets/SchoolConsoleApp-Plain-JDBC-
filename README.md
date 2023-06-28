@@ -21,8 +21,8 @@ courses(
 )
 
 1 Created SQL files with data:
-a. created a user and database. Assign all privileges on the database to the user. (DB and the user created before application runs)
-b. created a file with tables creation
+* created a user and database. Assign all privileges on the database to the user. (DB and the user created before application runs)
+* created a file with tables creation
 
 2 Created a java application
 a. On startup, it runs SQL script with table creation from previously created files. If tables already exist - they are droped.
@@ -34,9 +34,9 @@ b. Generated the test data:
 * Created the MANY-TO-MANY relation between STUDENTS and COURSES tables. Randomly assigned from 1 to 3 courses for each student
 
 3 Wrote SQL Queries, it is available from the console menu:
-a. Find all groups with less or equal students’ number
-b. Find all students related to the course with the given name
-c. Add a new student
-d. Delete a student by the STUDENT_ID
-e. Add a student to the course (from a list)
-f. Remove the student from one of their courses.
+* Find all groups with less or equal students’ number
+* Find all students related to the course with the given name
+* Add a new student
+* Delete a student by the STUDENT_ID
+* Add a student to the course (from a list)
+* Remove the student from one of their courses.
