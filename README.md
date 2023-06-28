@@ -40,3 +40,10 @@ b. Generated the test data:
 * Delete a student by the STUDENT_ID
 * Add a student to the course (from a list)
 * Remove the student from one of their courses.
+
+Result:
+![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/7dee57c1-2e96-46aa-9ead-9bff88634613)
+![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/67f78f45-d0da-4957-96f3-94565b5bf970)
+![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/0c05e0eb-94e7-4aa6-bd60-b92902e4679c)
+![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/fa268ae5-5359-4cb3-a7e1-01b4ad53e6a6)
+![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/a58468ad-1c28-4133-9ab4-2af645431eff)
